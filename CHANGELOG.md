@@ -1,3 +1,10 @@
+## [8.4.1](https://github.com/mparticle-integrations/mparticle-apple-integration-appsflyer/compare/v8.4.0...v8.4.1) (2024-05-13)
+
+
+### Bug Fixes
+
+* Update Carthage dependency to use binary ([661f3f7](https://github.com/mparticle-integrations/mparticle-apple-integration-appsflyer/commit/661f3f726ca5eb29476c7d09c7005e4159fc3923))
+
 # [8.4.0](https://github.com/mparticle-integrations/mparticle-apple-integration-appsflyer/compare/v8.3.0...v8.4.0) (2024-04-29)
 
 
